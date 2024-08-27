@@ -5,9 +5,9 @@ Within the context of "ErLoWa – Automated detection and localisation of leaks 
 
 ## Technologies
 Project is created with:
-* Python 3.6
-* Keras 2.2.4 using TensorFlow backend
-* librosa 0.6.3
+* Python
+* Keras using TensorFlow backend
+* librosa
 
 ## Installation
 Pre-requirements:
