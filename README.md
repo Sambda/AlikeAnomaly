@@ -1,6 +1,6 @@
-# IMAPPS
-Innovative Mobile Applications course LMU 2019 <br>
-Applied deep learning on audio files <br>
+# Anomaly Detection
+Innovative Mobile Applications LMU 2019
+Applied deep learning on audio files
 Within the context of "ErLoWa – Automated detection and localisation of leaks in water supply networks"
 
 ## Technologies
