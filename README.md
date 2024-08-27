@@ -1,7 +1,7 @@
 # IMAPPS
-Innovative Mobile Applications course LMU 2019 Group A<br>
+Innovative Mobile Applications course LMU 2019 <br>
 Applied deep learning on audio files <br>
-Within the context of "ErLoWa – Automatisierte Erkennung und Lokalisierung von Leckstellen in Wasserversorgungsnetzen"
+Within the context of "ErLoWa – Automated detection and localisation of leaks in water supply networks"
 
 ## Technologies
 Project is created with:
